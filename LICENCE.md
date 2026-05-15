@@ -1,0 +1,2 @@
+- PostgreSQL se distribuye bajo la Licencia PostgteAQL
+- 
