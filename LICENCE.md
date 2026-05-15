@@ -22,7 +22,7 @@ OpenSSH es desarrollado por un pequeño grupo de desarrolladores del Proyecto Op
 <img src="/img/logoOpenSSH.png">Logo de OpenSSH</img>
 
 # REFERENCIAS
-[1] Source Initiative, Open. “The PostgreSQL Licence.” Open Source Initiative, 2024, opensource.org/license/postgresql.
-[2] LICENSE, Apache. “APACHE LICENSE, VERSION 2.0.” Apache.org, 2019, www.apache.org/licenses/LICENSE-2.0.
-[3] “OpenSSH.” Openssh.org, 2025, www.openssh.org/.
+- [1] Source Initiative, Open. “The PostgreSQL Licence.” Open Source Initiative, 2024, opensource.org/license/postgresql.
+- [2] LICENSE, Apache. “APACHE LICENSE, VERSION 2.0.” Apache.org, 2019, www.apache.org/licenses/LICENSE-2.0.
+- [3] “OpenSSH.” Openssh.org, 2025, www.openssh.org/.
 
